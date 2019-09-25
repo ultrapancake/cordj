@@ -1,6 +1,10 @@
 body{
     color: #111111;
     padding-bottom: 50px;
+    font-family: 'Slabo 27px', serif;
+}
+h1{
+    font-family: 'Mansalva', cursive;
 }
 a{
     text-decoration: none;
@@ -23,7 +27,7 @@ a{
     width: 375px;
     background: #111111;
     color: #FFFFFF;
-    bottom: 30px;
+    top: 30px;
 }
 img{
     width: 375px;
