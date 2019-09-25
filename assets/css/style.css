@@ -1,0 +1,38 @@
+body{
+    color: #111111;
+    padding-bottom: 50px;
+}
+a{
+    text-decoration: none;
+}
+.nav-link{
+    text-decoration: none;
+    color: #111111;   
+}
+.nav-link:hover{
+    color: red;
+}
+.wrapper{
+    position: relative;
+    z-index: 1;
+}
+.link_title{
+    position: absolute;
+    z-index: 2;
+    text-align: center;
+    width: 375px;
+    background: #111111;
+    color: #FFFFFF;
+    bottom: 30px;
+}
+img{
+    width: 375px;
+}
+h3{
+    font-size: 14px;
+}
+#footer{
+    height: 50px;
+    background: #111111;
+    color: #FFFFFF;
+}
