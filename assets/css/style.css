@@ -29,9 +29,15 @@ a{
     color: #FFFFFF;
     top: 30px;
 }
-img{
+.images{
+    object-fit: scale-down;
     width: 375px;
-    height: 500px;
+    height: 425px;
+}
+.port-wrapper{
+    object-fit: scale-down;
+    width: 375px;
+    height: 435px;
 }
 h3{
     font-size: 14px;
