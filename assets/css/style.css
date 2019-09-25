@@ -42,6 +42,9 @@ a{
 h3{
     font-size: 14px;
 }
+#about-me-image{
+    padding: 0px!important;
+}
 #footer{
     height: 50px;
     background: #111111;
